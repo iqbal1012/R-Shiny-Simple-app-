@@ -2,7 +2,7 @@
 # Md Iqbal Hossain
 # PhD Candidate, 
 # Computational and Applied Mathematics with a Concentration in Statistics at Old Dominion University
-# http://github.com/dataprofessor  #
+# http://github.com/  
 ####################################
 
 # Load R packages
